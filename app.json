@@ -1,5 +1,19 @@
 {
   "name": "test-multi-version",
   "type": "app",
-  "defaultPage": "home"
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {},
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "environments": []
+  }
 }
